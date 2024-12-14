@@ -41,5 +41,5 @@
     "path":"sprites/spr_attack/spr_attack.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

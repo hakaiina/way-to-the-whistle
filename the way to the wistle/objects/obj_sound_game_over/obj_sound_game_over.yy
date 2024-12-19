@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_sound_top",
+  "%Name":"obj_sound_game_over",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":12,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_sound_top",
+  "name":"obj_sound_game_over",
   "overriddenProperties":[],
   "parent":{
     "name":"Объекты",

@@ -13,7 +13,7 @@
   "out_tilevborder":2,
   "parent":{
     "name":"Наборы плиток",
-    "path":"folders/Наборы плиток.yy",
+    "path":"folders/Объекты/Наборы плиток.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",

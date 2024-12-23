@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":114.80817,
+  "duration":120.024,
   "name":"snd_top",
   "parent":{
     "name":"Звуки",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_top.mp3",
   "type":0,
-  "volume":0.86,
+  "volume":0.79,
 }
